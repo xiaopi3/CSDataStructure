@@ -48,6 +48,10 @@
     <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="练习\ArrayDS.cs" />
+    <Compile Include="练习\IList.cs" />
+    <Compile Include="练习\LinkedDS.cs" />
+    <Compile Include="练习\Node.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

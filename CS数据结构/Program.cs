@@ -11,7 +11,11 @@ namespace CS数据结构
         static void Main(string[] args)
         {
             //ArrayDS<String> arr = new ArrayDS<string>();
-            LinkedDS<String> arr = new LinkedDS<string>();
+            //LinkedDS<String> arr = new LinkedDS<string>();
+
+            //测试1
+            //练习.ArrayDS<String> arr = new 练习.ArrayDS<string>();
+            练习.LinkedDS<String> arr = new 练习.LinkedDS<string>();
             arr.Add("123");
             arr.Add("432");
             arr.Add("888");
