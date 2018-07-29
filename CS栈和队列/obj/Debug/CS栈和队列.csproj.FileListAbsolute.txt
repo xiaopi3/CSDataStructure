@@ -1,0 +1,6 @@
+D:\CSDataStructure\CS栈和队列\bin\Debug\CS栈和队列.exe.config
+D:\CSDataStructure\CS栈和队列\bin\Debug\CS栈和队列.exe
+D:\CSDataStructure\CS栈和队列\bin\Debug\CS栈和队列.pdb
+D:\CSDataStructure\CS栈和队列\obj\Debug\CS栈和队列.csprojResolveAssemblyReference.cache
+D:\CSDataStructure\CS栈和队列\obj\Debug\CS栈和队列.exe
+D:\CSDataStructure\CS栈和队列\obj\Debug\CS栈和队列.pdb

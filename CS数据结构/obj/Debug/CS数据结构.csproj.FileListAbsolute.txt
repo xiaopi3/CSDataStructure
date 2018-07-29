@@ -5,3 +5,6 @@ D:\private\CS数据结构\CS数据结构\obj\Debug\CS数据结构.csprojResolveA
 D:\private\CS数据结构\CS数据结构\obj\Debug\CS数据结构.csproj.CoreCompileInputs.cache
 D:\private\CS数据结构\CS数据结构\obj\Debug\CS数据结构.exe
 D:\private\CS数据结构\CS数据结构\obj\Debug\CS数据结构.pdb
+D:\CSDataStructure\CS数据结构\bin\Debug\CS数据结构.exe.config
+D:\CSDataStructure\CS数据结构\obj\Debug\CS数据结构.exe
+D:\CSDataStructure\CS数据结构\obj\Debug\CS数据结构.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS数据结构
+namespace CS栈和队列
 {
     class ArrayDS<T> : IList<T>
     {

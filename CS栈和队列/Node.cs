@@ -9,7 +9,19 @@ namespace CS栈和队列
     class Node<T>
     {
         private T data;
+
+        public T Data
+        {
+            get { return data; }
+            set { data = value; }
+        }
         private Node<T> next;
+
+        internal Node<T> Next
+        {
+            get { return next; }
+            set { next = value; }
+        }
 
         public Node()
         {
@@ -31,7 +43,5 @@ namespace CS栈和队列
             this.Next = next;
         }
 
-        public T Data { get => data; set => data = value; }
-        internal Node<T> Next { get => next; set => next = value; }
     }
 }

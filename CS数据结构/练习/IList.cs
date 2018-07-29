@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS数据结构.练习
+namespace CS栈和队列.练习
 {
     /// <summary>
     ///九大功能：长度|添加2|删除2|判空|取值|取索引|索引器
