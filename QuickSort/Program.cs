@@ -49,17 +49,11 @@ namespace QuickSort
         {
 
             int X = a[ind_j];
-            int r=ind_j;
             for(int i = ind_i; i <= ind_j; i++)
             {
                 if (a[i] > X)
                 {
-                    if (i == ind_j)
-                    {
-                        return i;
-                    }
-                    
-                    for (int j = r; j >= i; j--)
+                    for (int j = ind_j; j >= i; j--)
                     {
                         if (i == j)
                         {
@@ -67,7 +61,7 @@ namespace QuickSort
                         }
                         if (a[j] < X)
                         {
-                            r = j-1;
+                            
                             ind_j = j;
                             int temp = a[i];
                             a[i] = a[j];
